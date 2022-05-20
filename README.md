@@ -1,6 +1,3 @@
-ALX simple shell project 
+ALX simple shell project
 
-Authors : 
-
-  ---- Abdisa Alemu : abdisa.alemu.wako@gmail.com
-  ---- 
+Author : Abdisa -> abdisa.alemu.wako@gmail.com
